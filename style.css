@@ -1,7 +1,7 @@
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap : 200 px;
+    gap : 200px;
 
 }
 
@@ -21,7 +21,7 @@ input[type="text"], input[type="email"], input[type="select"] {
 
 input[type="text"]:focus, input[type="email"]:focus, input[type="select" ]:focus {
     border-bottom-color: #4A90E2;
-    opacity: 5;
+    opacity: 1;
 }
 
 button {
